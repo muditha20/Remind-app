@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Remind@</string>
+    <string name="google_maps_api_key">Api key add here</string>
+    <string name="help_text">The reminder app allows users to create and manage reminders for various tasks and events. When a user opens the app, they are presented with a main screen that displays a list of their current reminders. The app also allows users to edit and delete existing reminders by tapping on a reminder in the main screen list, which opens a screen where they can make changes or delete the reminder entirely.
+
+If users need help or have any questions, they can email us at remnapp@gmail.com and we\'ll be happy to assist them.</string>
+    <string name="battery_optimiz">Battery Optimization</string>
+    <string name="battery_optimiz_details">For the app to work properly in the background, you must allow background battery usage.</string>
+
+</resources>
